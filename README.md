@@ -13,21 +13,9 @@ Tecnologias que uso no meu dia a dia:
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="Sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="Godot" src="https://img.shields.io/badge/Made%20with-Godot-478CBF?style=flat&logo=godot%20engine&logoColor=white" />
+        
 
 
+### Buscando conhecimento em tecnologia e programção!
 
-
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro7-7&show_icons=true&theme=radical)            ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-7-7&hide_progress=true)
-
-
-
-
-
-
-
-
-
-### Buscando conhecimento em tecnologia e programção
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro7-7&show_icons=true&theme=radical)
