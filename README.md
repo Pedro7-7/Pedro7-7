@@ -18,5 +18,5 @@ Tecnologias que uso no meu dia a dia:
 
 ### Buscando conhecimento em tecnologia e programção!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro7-7&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)
 
