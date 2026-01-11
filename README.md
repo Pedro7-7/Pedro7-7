@@ -18,5 +18,4 @@ Tecnologias que uso no meu dia a dia:
 
 ### Buscando conhecimento em tecnologia e programação. Futuro Análista de Dados!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)
 
